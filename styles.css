@@ -1,1 +1,47 @@
-
+header {
+        border-style: double;
+  }
+  ul:hover {
+        color: rgb(35, 25, 92);
+  }
+  div {
+    border: 1px solid black;
+    padding: 10px;
+    width: 800px;
+    height: 80px;
+    text-align: justify;
+  }
+figcaption {
+    text-align: center;
+}
+  
+  h1 {
+      text-align: center;
+  }
+  h2 {
+    text-align: center;
+  }
+  figure3 {
+    float: right;  
+  }
+  figure5 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+  figure6 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+  figure7 {
+    float: right;  
+  }
+  figure9 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%; 
+  }
